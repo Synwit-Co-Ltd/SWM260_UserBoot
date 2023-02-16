@@ -1,0 +1,354 @@
+Dependencies for Project 'SWM260_StdPeriph_Driver', Target 'SWM260': (DO NOT MODIFY !)
+F (.\app\main.c)(0x606D308B)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\main.o" --omf_browse ".\out\main.crf" --depend ".\out\main.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.c)(0x5C0F5922)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_port.o" --omf_browse ".\out\swm260_port.crf" --depend ".\out\swm260_port.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.c)(0x5C63E4F8)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_gpio.o" --omf_browse ".\out\swm260_gpio.crf" --depend ".\out\swm260_gpio.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.c)(0x5C63C014)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_exti.o" --omf_browse ".\out\swm260_exti.crf" --depend ".\out\swm260_exti.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.c)(0x5C7CD06A)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_timr.o" --omf_browse ".\out\swm260_timr.crf" --depend ".\out\swm260_timr.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.c)(0x5C7CDFA5)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_uart.o" --omf_browse ".\out\swm260_uart.crf" --depend ".\out\swm260_uart.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.c)(0x5C1C83AC)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_adc.o" --omf_browse ".\out\swm260_adc.crf" --depend ".\out\swm260_adc.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.c)(0x5C0A3E8B)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_dma.o" --omf_browse ".\out\swm260_dma.crf" --depend ".\out\swm260_dma.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.c)(0x5C7CCE18)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_i2c.o" --omf_browse ".\out\swm260_i2c.crf" --depend ".\out\swm260_i2c.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.c)(0x5CB6E427)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_pwm.o" --omf_browse ".\out\swm260_pwm.crf" --depend ".\out\swm260_pwm.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.c)(0x5C0F77AA)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_spi.o" --omf_browse ".\out\swm260_spi.crf" --depend ".\out\swm260_spi.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.c)(0x5C230F14)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_flash.o" --omf_browse ".\out\swm260_flash.crf" --depend ".\out\swm260_flash.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.c)(0x5CDBBD52)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_rtc.o" --omf_browse ".\out\swm260_rtc.crf" --depend ".\out\swm260_rtc.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.c)(0x5C0A3E8B)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_wdt.o" --omf_browse ".\out\swm260_wdt.crf" --depend ".\out\swm260_wdt.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.c)(0x5C0A3E8B)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\swm260_sleep.o" --omf_browse ".\out\swm260_sleep.crf" --depend ".\out\swm260_sleep.d")
+I (.\CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (.\CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\CMSIS\DeviceSupport\system_SWM260.c)(0x5CB7E748)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O1 --apcs=interwork -I.\CSL\CMSIS\CoreSupport -I.\CSL\CMSIS\DeviceSupport -I.\CSL\SWM260_StdPeriph_Driver --c99 -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include -o ".\out\system_swm260.o" --omf_browse ".\out\system_swm260.crf" --depend ".\out\system_swm260.d")
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdint.h)(0x50F96150)
+I (CSL\CMSIS\DeviceSupport\SWM260.h)(0x5D304838)
+I (D:\Program\MDK470\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (.\CSL\CMSIS\CoreSupport\core_cm0.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmInstr.h)(0x542135DE)
+I (.\CSL\CMSIS\CoreSupport\core_cmFunc.h)(0x542135DE)
+I (CSL\CMSIS\DeviceSupport\system_SWM260.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_port.h)(0x5C199522)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_gpio.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_exti.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_timr.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_uart.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_spi.h)(0x5C0F77AA)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_i2c.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_pwm.h)(0x5CADC0E7)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_adc.h)(0x5C1C8385)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_dma.h)(0x5CE51593)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_rtc.h)(0x5CDBBD52)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_wdt.h)(0x5C0A3E8B)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_flash.h)(0x5C1A273E)
+I (.\CSL\SWM260_StdPeriph_Driver\SWM260_sleep.h)(0x5C0A3E8B)
+F (.\CSL\CMSIS\DeviceSupport\startup\arm\startup_SWM260.s)(0x5C18DEAA)(--cpu Cortex-M0 --li -g --apcs=interwork --pd "__MICROLIB SETA 1" -I D:\Program\MDK470\ARM\RV31\INC -I D:\Program\MDK470\ARM\CMSIS\Include --list ".\out\startup_SWM260.lst" --xref -o ".\out\startup_SWM260.o" --depend ".\out\startup_SWM260.d")
